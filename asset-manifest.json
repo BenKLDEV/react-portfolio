@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.5561e3df.css",
-    "main.js": "/react-portfolio/static/js/main.05ceec50.js",
+    "main.js": "/react-portfolio/static/js/main.a63ffdc2.js",
     "static/media/mongo-db.png": "/react-portfolio/static/media/mongo-db.e1a467194973565f911f.png",
     "static/media/democrat-quiz.JPG": "/react-portfolio/static/media/democrat-quiz.90fc8d3476d46f82cd46.JPG",
     "static/media/react-weather-application.JPG": "/react-portfolio/static/media/react-weather-application.1c8d9b5bb61a51d71c96.JPG",
@@ -14,10 +14,10 @@
     "static/media/React-logo.png": "/react-portfolio/static/media/React-logo.ef20e673b9282f8f30fd.png",
     "index.html": "/react-portfolio/index.html",
     "main.5561e3df.css.map": "/react-portfolio/static/css/main.5561e3df.css.map",
-    "main.05ceec50.js.map": "/react-portfolio/static/js/main.05ceec50.js.map"
+    "main.a63ffdc2.js.map": "/react-portfolio/static/js/main.a63ffdc2.js.map"
   },
   "entrypoints": [
     "static/css/main.5561e3df.css",
-    "static/js/main.05ceec50.js"
+    "static/js/main.a63ffdc2.js"
   ]
 }
