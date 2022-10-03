@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/modern-react-portfolio/static/css/main.5561e3df.css",
+    "main.js": "/modern-react-portfolio/static/js/main.f72886b5.js",
+    "static/media/mongo-db.png": "/modern-react-portfolio/static/media/mongo-db.e1a467194973565f911f.png",
+    "static/media/democrat-quiz.JPG": "/modern-react-portfolio/static/media/democrat-quiz.90fc8d3476d46f82cd46.JPG",
+    "static/media/react-weather-application.JPG": "/modern-react-portfolio/static/media/react-weather-application.1c8d9b5bb61a51d71c96.JPG",
+    "static/media/tailwind-css.png": "/modern-react-portfolio/static/media/tailwind-css.36b2728bf0d14b7b7576.png",
+    "static/media/javascript.png": "/modern-react-portfolio/static/media/javascript.37dd0697ee49e72f6ea0.png",
+    "static/media/node-js.png": "/modern-react-portfolio/static/media/node-js.c6649cb118c1ede849ad.png",
+    "static/media/react-calculator.JPG": "/modern-react-portfolio/static/media/react-calculator.9e58a80e48c7a8e3745a.JPG",
+    "static/media/logo.png": "/modern-react-portfolio/static/media/logo.83cbf599f4109cbe9d2d.png",
+    "static/media/git-logo.png": "/modern-react-portfolio/static/media/git-logo.162d79c5b2606fc7d205.png",
+    "static/media/React-logo.png": "/modern-react-portfolio/static/media/React-logo.ef20e673b9282f8f30fd.png",
+    "index.html": "/modern-react-portfolio/index.html",
+    "main.5561e3df.css.map": "/modern-react-portfolio/static/css/main.5561e3df.css.map",
+    "main.f72886b5.js.map": "/modern-react-portfolio/static/js/main.f72886b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5561e3df.css",
+    "static/js/main.f72886b5.js"
+  ]
+}
